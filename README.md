@@ -1,7 +1,7 @@
 # Food Delivery Platform API 👋
 
 ### Frameworks and Language used:
- - Spring
+ - Springboot
  - Spring boot
  - Java
  - Mysql-Database
