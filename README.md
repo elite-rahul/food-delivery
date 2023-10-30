@@ -10,7 +10,7 @@
 ## Data Flow
  #### Controller
 ---Food----
- - addFood
+ - addFoods
  - deletedFood
  - getAllFood
 
